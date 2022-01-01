@@ -131,7 +131,7 @@ ${f}${prefix}notif
 ${f}${prefix}listonline
 ${f}${prefix}tagall
 ${f}${prefix}ceksewa
-${f}${prefix}add 628XX
+${f}${prefix}add @628
 ${f}${prefix}kick
 ${f}${prefix}rkick
 ${f}${prefix}promote
@@ -199,11 +199,11 @@ ${f}${prefix}butterfly`
 }
 exports.owner = (f, prefix) => {
 return`─ *OWNER* ─
-${f} >
-${f} >>
-${f} =>
-${f} $
-${f} <
+${f} >085389182022
+${f} >>085389182022
+${f} =>085389182022
+${f} $085389182022
+${f} <085389182022
 ${f}${prefix}virlog
 ${f}${prefix}virbug <total>
 ${f}${prefix}bc
