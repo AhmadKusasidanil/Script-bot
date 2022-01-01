@@ -3,8 +3,8 @@
 ❗❗🇧 🇦 🇨 🇦    🇧 🇦 🇳 🇬  ❗❗
 
 ❗KLO NYOLONG/COPY CASE ITU YG BENER BANG JANGAN STENGAH"
-❗USAHAIN TAMBAHIN NAMA GW KLO MAU NYOLONG/NGCOPAS YE BANG (FARID MHRDKAA @6281231951590)
-❗YANG MAU NYUMBANG FITUR, KE PM YA GANS :V (wa.me/6281231951590)
+❗USAHAIN TAMBAHIN NAMA GW KLO MAU NYOLONG/NGCOPAS YE BANG (CHAZU @6285389182022)
+❗YANG MAU NYUMBANG FITUR, KE PM YA GANS :V (wa.me/62885389182022)
 
 
 
@@ -18,11 +18,11 @@ SCIRPT BOT INI CUMAN MEMERLUKAN 1 APIKEY YAITU APIKEY LOLHUMAN KALIAN BISA BELI 
 TANPA APIKEY SEBAGIAN FITUR BOT TIDAK BISA DI PAKE
 
 🖤 THANKS TO :
-❤ FARID MHRDKAA
-❤ SENKU ARD
-❤ ALDI FAUZI
-❤ ADITYA
-❤ MHANKBARBAR
+❤ FCHAZU
+❤ SCHAZU
+❤ ACHAZU
+❤ ACHAZU
+❤ MHCHAZU FEMES :V
 ❤ PENYEDIA REST API && MODULE
 
 ❗❗Ambil Case Kasih Credits Gw Dong : FARID MHRDKAA
@@ -36,25 +36,25 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 ❗MAU BELI SCRIPT YANG NO ENC ? KE PM BAWA DANA, HARGA BISIK BISIK :V (6281231951590)
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 limitawal = "50" //LIMIT AWAL
-namabot = "Its Me Xinzz" //NAMA BOT
-namaowner = "OWNER Xinzz🎖️" //NAMA OWNER
-nomerowner = '6281994112523' //NOMER OWNER
+namabot = "Its Chazu" //Chazu bot
+namaowner = "OWNER chazu🎖️" //chazu store
+nomerowner = '6285389182022' //chazu
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
-gcounttprem = "35" //LIMIT GAME AWAL UNTUK USER PREMIUM
-gcounttuser = "40" //LIMIT GAME AWAL UNTUK USER BIASA
+gcounttprem = "120" //LIMIT GAME AWAL UNTUK USER PREMIUM
+gcounttuser = "100" //LIMIT GAME AWAL UNTUK USER BIASA
 f = "⬡"
 prefa = "!"
 
 //🇮 🇸 🇮  🇦 🇵 🇮 🇰 🇪 🇾  🇲 🇺  🇩 🇮 🇸 🇮 🇳 🇮 
-const lolkey = 'a3114bbd7e15facf9c35afbd' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PAKE TANDA ( ' ) CONTOH = 'APIKEYNYA'
+const lolkey = 'a3114bbd7e15facf9c35abd' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PAKE TANDA ( ' ) CONTOH = 'APIKEYNYA'
 
 //DONASI 
-//NOTE : JIKA GA PUNYA, ISI JADI -
+//NOTE : DONASI SCAN PP ALL PAYMENT 😟-
 gopay = 'Kode Qr Di Profile Bot'
-dana = '081297365205'
-ovo = '081994112523'
-shopeepay = '081994112523'
+dana = '
+ovo = '085389182022
+shopeepay = '
 paypal = '-'
 saweria = '-'
 ewalet = '-'
@@ -68,13 +68,13 @@ limit: 'Limit Kamu Sudah Habis, Silahkan Belii Lewat #buylimit (nominal) atau mi
 glimit: 'Limit Game Kamu Sudah Habis\nSilahkan Beli Lewat #buyglimit (nominal) atau minta gift dari temen mu',
 sewabot: `━ 「 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 」 ━
 
-30k / PERMANENT (FREE PREMIUM)
+15k / PERMANENT (FREE PREMIUM)
 
 ─ *PREMIUM USER* ─
 
 10K / BULAN
 
-minat? wa.me/${nomerowner}`,
+minat? wa.me/6285389182022 ${nomerowner}`,
 
 noregis: `─ 「 *NOT REGISTERED* 」 ─
 
