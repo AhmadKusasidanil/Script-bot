@@ -4,7 +4,7 @@ Whatsapp bot
 
 
 ## Join Group Bot bang
-[`Group whatsapp`](https://chat.whatsapp.com/EkquvodH6uuHxdSnE4GpaY)
+[`Group whatsapp`](https://chat.whatsapp.com/H1DtbykTD5985PqnXZTl8y)
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
