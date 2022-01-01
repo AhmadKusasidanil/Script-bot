@@ -3,8 +3,8 @@
 ❗❗🇧 🇦 🇨 🇦    🇧 🇦 🇳 🇬  ❗❗
 
 ❗KLO NYOLONG/COPY CASE ITU YG BENER BANG JANGAN STENGAH"
-❗USAHAIN TAMBAHIN NAMA GW KLO MAU NYOLONG/NGCOPAS YE BANG (FARID MHRDKAA @6281231951590)
-❗YANG MAU NYUMBANG FITUR, KE PM YA GANS :V (wa.me/6281231951590)
+❗USAHAIN TAMBAHIN NAMA GW KLO MAU NYOLONG/NYOPAS (CHAZU @6281231951590)
+❗YANG MAU NYUMBANG FITUR, KE PM YA GANS :V (wa.me/6285389182022)
 
 
 
@@ -36,9 +36,9 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 ❗MAU BELI SCRIPT YANG NO ENC ? KE PM BAWA DANA, HARGA BISIK BISIK :V (6281231951590)
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 limitawal = "50" //LIMIT AWAL
-namabot = "Its Me Xinzz" //NAMA BOT
-namaowner = "OWNER Xinzz🎖️" //NAMA OWNER
-nomerowner = '6281994112523' //NOMER OWNER
+namabot = "bot chazu" //bot chazu
+namaowner = "OWNER chazu🎖️" //chazu store
+nomerowner='085389182022 //chazu
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
 gcounttprem = "35" //LIMIT GAME AWAL UNTUK USER PREMIUM
@@ -52,8 +52,8 @@ const lolkey = 'isi' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PA
 //DONASI 
 //NOTE : JIKA GA PUNYA, ISI JADI -
 gopay = 'Kode Qr Di Profile Bot'
-dana = '081297365205'
-ovo = '081994112523'
+dana ='
+ovo = '085389182022'
 shopeepay = '081994112523'
 paypal = '-'
 saweria = '-'
@@ -68,13 +68,13 @@ limit: 'Limit Kamu Sudah Habis, Silahkan Belii Lewat #buylimit (nominal) atau mi
 glimit: 'Limit Game Kamu Sudah Habis\nSilahkan Beli Lewat #buyglimit (nominal) atau minta gift dari temen mu',
 sewabot: `━ 「 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 」 ━
 
-30k / PERMANENT (FREE PREMIUM)
+15k / PERMANENT (FREE PREMIUM)
 
 ─ *PREMIUM USER* ─
 
 10K / BULAN
 
-minat? wa.me/${nomerowner}`,
+minat? wa.me/6285389182022${}`,
 
 noregis: `─ 「 *NOT REGISTERED* 」 ─
 
